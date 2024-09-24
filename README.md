@@ -1,2 +1,2 @@
-# Manual-Testing-Portfolio
+# ManualTestingPortfolio
 Manual Portfolio
